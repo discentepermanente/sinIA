@@ -4,6 +4,8 @@
 # ============================================================
 
 # [.ai sites]
+0.0.0.0 chat.deepseek.com
+0.0.0.0 gemini.google.com
 0.0.0.0 forkful.ai
 0.0.0.0 cgdream.ai
 0.0.0.0 tryleap.ai
