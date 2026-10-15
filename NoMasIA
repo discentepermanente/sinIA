@@ -4,6 +4,9 @@
 # ============================================================
 
 # [.ai sites]
+0.0.0.0 moonshot.cn
+0.0.0.0 moonshot.ai
+0.0.0.0 kimi.com
 0.0.0.0 kimi.ai
 0.0.0.0 chat.deepseek.com
 0.0.0.0 gemini.google.com
